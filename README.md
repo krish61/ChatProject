@@ -1,2 +1,2 @@
 # ChatProject
- Simple Chat Application Using Sockets
+ Simple Chat Application Using django-channels JsonWebSocket
